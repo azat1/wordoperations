@@ -1,5 +1,5 @@
 Простая утилита для быстрой конвертации множества файлов Word и для печати одного листа из каждого документа
 ======
 Конвертация выполняется самим Word, поэтому он должен быть установлен и активирован. Если вы не погромист
-достаточно скачать [этот файл](../tree/master/WordPDFConvert/WordPDFConvert/bin/Debug/Debug/WordPDFConvert.exe).
+достаточно скачать [этот файл](https://github.com/azat1/wordoperations/blob/master/WordPDFConvert/WordPDFConvert/bin/Debug/WordPDFConvert.exe).
 Печать выполняется опять же самим Word на принтер по умолчанию и с настройками по умолчанию. 
